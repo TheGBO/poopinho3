@@ -1,0 +1,1 @@
+vidatelhabosta = 70;
